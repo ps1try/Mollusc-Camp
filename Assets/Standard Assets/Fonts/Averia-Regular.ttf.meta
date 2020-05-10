@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5f5c88f815a8c824cac083b73602882c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Averia
+  fontNames:
+  - Averia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ca447759db24da45abc54ee169aa877, type: 3}
+  - {fileID: 12800000, guid: a4c08f0acb9253c4cb01dcab59b561c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
