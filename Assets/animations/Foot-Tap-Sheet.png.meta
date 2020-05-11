@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: c638b858c8ad5c14ba1d0ad5d4cb5997
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -274525821534180560
+    second: Foot-Tap-Sheet_0
+  - first:
+      213: 1910776344677487855
+    second: Foot-Tap-Sheet_1
+  - first:
+      213: 5479240934904759210
+    second: Foot-Tap-Sheet_2
+  - first:
+      213: 3483420891765032045
+    second: Foot-Tap-Sheet_3
+  - first:
+      213: 8732301065078387095
+    second: Foot-Tap-Sheet_4
+  - first:
+      213: -5582995579068011917
+    second: Foot-Tap-Sheet_5
+  - first:
+      213: 415775650473785395
+    second: Foot-Tap-Sheet_6
+  - first:
+      213: 7317860770103634978
+    second: Foot-Tap-Sheet_7
+  - first:
+      213: -736083498771865277
+    second: Foot-Tap-Sheet_8
+  - first:
+      213: 7626417951368738354
+    second: Foot-Tap-Sheet_9
+  - first:
+      213: 8979426256693360209
+    second: Foot-Tap-Sheet_10
+  - first:
+      213: -5226048467326651018
+    second: Foot-Tap-Sheet_11
+  - first:
+      213: 8914670187356836864
+    second: Foot-Tap-Sheet_12
+  - first:
+      213: 3412259805470561522
+    second: Foot-Tap-Sheet_13
+  - first:
+      213: -5526279239898491959
+    second: Foot-Tap-Sheet_14
+  - first:
+      213: -1898577676751774170
+    second: Foot-Tap-Sheet_15
+  - first:
+      213: 3979691104029581734
+    second: Foot-Tap-Sheet_16
+  - first:
+      213: 988800597351716337
+    second: Foot-Tap-Sheet_17
+  - first:
+      213: 2070589880754520230
+    second: Foot-Tap-Sheet_18
+  - first:
+      213: 1241593620114844259
+    second: Foot-Tap-Sheet_19
+  - first:
+      213: -6284686563174351395
+    second: Foot-Tap-Sheet_20
+  - first:
+      213: 2747763749219939162
+    second: Foot-Tap-Sheet_21
+  - first:
+      213: 3061288158610169553
+    second: Foot-Tap-Sheet_22
+  - first:
+      213: -3999133652438185258
+    second: Foot-Tap-Sheet_23
+  - first:
+      213: 5315410920260438500
+    second: Foot-Tap-Sheet_24
+  - first:
+      213: 2934778238184840037
+    second: Foot-Tap-Sheet_25
+  - first:
+      213: 8475173263859770843
+    second: Foot-Tap-Sheet_26
+  - first:
+      213: -9068167431916912285
+    second: Foot-Tap-Sheet_27
+  - first:
+      213: -200451366964861136
+    second: Foot-Tap-Sheet_28
+  - first:
+      213: 2486362044567871441
+    second: Foot-Tap-Sheet_29
+  - first:
+      213: 8911774238727689403
+    second: Foot-Tap-Sheet_30
+  - first:
+      213: -6532192996368949888
+    second: Foot-Tap-Sheet_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9598
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b68c54830b03cf0800000000000000
+      internalID: -274525821534180560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9918
+        width: 801
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe498b536f0748a10800000000000000
+      internalID: 1910776344677487855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8958
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa307cb999c2a0c40800000000000000
+      internalID: 5479240934904759210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9278
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6444d858d8975030800000000000000
+      internalID: 3483420891765032045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8318
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79133cf8d8d5f2970800000000000000
+      internalID: 8732301065078387095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8638
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a231fc9173582b0800000000000000
+      internalID: -5582995579068011917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7678
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3383fb050c125c500800000000000000
+      internalID: 415775650473785395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7998
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2bc549934e8560800000000000000
+      internalID: 7317860770103634978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7038
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412da235f7e8c5f0800000000000000
+      internalID: -736083498771865277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7358
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236fef368ba76d960800000000000000
+      internalID: 7626417951368738354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6398
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f50dfa945d9c70800000000000000
+      internalID: 8979426256693360209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6718
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67535069b985977b0800000000000000
+      internalID: -5226048467326651018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5758
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045b2fad4547bb70800000000000000
+      internalID: 8914670187356836864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6078
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f49a62d638ca5f20800000000000000
+      internalID: 3412259805470561522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5118
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31c309f46be43b0800000000000000
+      internalID: -5526279239898491959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5438
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e59be79a5e6a5e0800000000000000
+      internalID: -1898577676751774170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4478
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1277b49f3ba3730800000000000000
+      internalID: 3979691104029581734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4798
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d7d687ece8bd00800000000000000
+      internalID: 988800597351716337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3838
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a044eda6863cbc10800000000000000
+      internalID: 2070589880754520230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4158
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a265ab1d60b3110800000000000000
+      internalID: 1241593620114844259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3198
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd72555ede48c8a0800000000000000
+      internalID: -6284686563174351395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3518
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5333f65294022620800000000000000
+      internalID: 2747763749219939162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2558
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de91116c51eb7a20800000000000000
+      internalID: 3061288158610169553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2878
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8c15a1293088c0800000000000000
+      internalID: -3999133652438185258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1918
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90b59d11224c940800000000000000
+      internalID: 5315410920260438500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2238
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bdd8d224d6ab820800000000000000
+      internalID: 2934778238184840037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ef3a1e2ddd9570800000000000000
+      internalID: 8475173263859770843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36183d014c5672280800000000000000
+      internalID: -9068167431916912285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03761553b8ad73df0800000000000000
+      internalID: -200451366964861136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df5b713b15518220800000000000000
+      internalID: 2486362044567871441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 801
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb457d9147bfcab70800000000000000
+      internalID: 8911774238727689403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot-Tap-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 801
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d522f241df855a0800000000000000
+      internalID: -6532192996368949888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
