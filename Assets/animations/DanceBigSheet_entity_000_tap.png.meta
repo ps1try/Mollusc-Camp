@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: 4dfca3418a7f7b64190bab345d469a51
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8185313676768410210
+    second: DanceBigSheet_entity_000_tap_0
+  - first:
+      213: -7754496569729741639
+    second: DanceBigSheet_entity_000_tap_1
+  - first:
+      213: 7521521661676315310
+    second: DanceBigSheet_entity_000_tap_2
+  - first:
+      213: 6186493689599806416
+    second: DanceBigSheet_entity_000_tap_3
+  - first:
+      213: -7990633558116693545
+    second: DanceBigSheet_entity_000_tap_4
+  - first:
+      213: 4848180476924189935
+    second: DanceBigSheet_entity_000_tap_5
+  - first:
+      213: 6309160191901965989
+    second: DanceBigSheet_entity_000_tap_6
+  - first:
+      213: -8684424252310775256
+    second: DanceBigSheet_entity_000_tap_7
+  - first:
+      213: -5111385983330079122
+    second: DanceBigSheet_entity_000_tap_8
+  - first:
+      213: -2217043728612158867
+    second: DanceBigSheet_entity_000_tap_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +100,267 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e958211249ce76e80800000000000000
+      internalID: -8185313676768410210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc0645747e726490800000000000000
+      internalID: -7754496569729741639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26f9eb910d16860800000000000000
+      internalID: 7521521661676315310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbcac5bb37dad550800000000000000
+      internalID: 6186493689599806416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d983267d119b1190800000000000000
+      internalID: -7990633558116693545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecdc0ef472384340800000000000000
+      internalID: 4848180476924189935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1a5564c3ae8750800000000000000
+      internalID: 6309160191901965989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9a32972aba7780800000000000000
+      internalID: -8684424252310775256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e23b98785b019b0800000000000000
+      internalID: -5111385983330079122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_tap_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 801
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629098a97a7b31e0800000000000000
+      internalID: -2217043728612158867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

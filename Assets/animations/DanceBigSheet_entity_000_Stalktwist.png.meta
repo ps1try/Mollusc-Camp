@@ -1,7 +1,85 @@
 fileFormatVersion: 2
 guid: ad791c67fb1fe2041a1549236ef9d07b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5883407755685172110
+    second: DanceBigSheet_entity_000_Stalktwist_0
+  - first:
+      213: -8303359887477529649
+    second: DanceBigSheet_entity_000_Stalktwist_1
+  - first:
+      213: 8144683972440104923
+    second: DanceBigSheet_entity_000_Stalktwist_2
+  - first:
+      213: 3523930429565733611
+    second: DanceBigSheet_entity_000_Stalktwist_3
+  - first:
+      213: -2568905524963997346
+    second: DanceBigSheet_entity_000_Stalktwist_4
+  - first:
+      213: 6522458899476378961
+    second: DanceBigSheet_entity_000_Stalktwist_5
+  - first:
+      213: 5248554621152393820
+    second: DanceBigSheet_entity_000_Stalktwist_6
+  - first:
+      213: 5447463622230421303
+    second: DanceBigSheet_entity_000_Stalktwist_7
+  - first:
+      213: 7792689141093977390
+    second: DanceBigSheet_entity_000_Stalktwist_8
+  - first:
+      213: 3826440172384618492
+    second: DanceBigSheet_entity_000_Stalktwist_9
+  - first:
+      213: -6070847234743320816
+    second: DanceBigSheet_entity_000_Stalktwist_10
+  - first:
+      213: -3318392618980562008
+    second: DanceBigSheet_entity_000_Stalktwist_11
+  - first:
+      213: -663891596467185078
+    second: DanceBigSheet_entity_000_Stalktwist_12
+  - first:
+      213: -4616550490461112324
+    second: DanceBigSheet_entity_000_Stalktwist_13
+  - first:
+      213: 8183998923345661197
+    second: DanceBigSheet_entity_000_Stalktwist_14
+  - first:
+      213: -7797067106350560410
+    second: DanceBigSheet_entity_000_Stalktwist_15
+  - first:
+      213: -2487312181496285054
+    second: DanceBigSheet_entity_000_Stalktwist_16
+  - first:
+      213: 3072239840894097931
+    second: DanceBigSheet_entity_000_Stalktwist_17
+  - first:
+      213: -5752745372999624519
+    second: DanceBigSheet_entity_000_Stalktwist_18
+  - first:
+      213: -3171329574761174947
+    second: DanceBigSheet_entity_000_Stalktwist_19
+  - first:
+      213: -6181378533922601327
+    second: DanceBigSheet_entity_000_Stalktwist_20
+  - first:
+      213: -2918119773179353903
+    second: DanceBigSheet_entity_000_Stalktwist_21
+  - first:
+      213: -5741301659956835459
+    second: DanceBigSheet_entity_000_Stalktwist_22
+  - first:
+      213: -1276285652228208367
+    second: DanceBigSheet_entity_000_Stalktwist_23
+  - first:
+      213: 7447281298677223044
+    second: DanceBigSheet_entity_000_Stalktwist_24
+  - first:
+      213: -1441906619437228178
+    second: DanceBigSheet_entity_000_Stalktwist_25
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +118,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +148,603 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18944
+        width: 1075
+        height: 1264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e839462ae2016a150800000000000000
+      internalID: 5883407755685172110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19469
+        width: 1075
+        height: 739
+      alignment: 9
+      pivot: {x: 0.45823777, y: 0.21961424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3aca8ec2a84cc80800000000000000
+      internalID: -8303359887477529649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1075
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf1c19abeab70170800000000000000
+      internalID: 8144683972440104923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 1021
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea847b1e0487e030800000000000000
+      internalID: 3523930429565733611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 866
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598bf2290a695cd0800000000000000
+      internalID: -2568905524963997346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2614
+        width: 1058
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ff55cfcd648a50800000000000000
+      internalID: 6522458899476378961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3443
+        width: 1068
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5af502be9c96d840800000000000000
+      internalID: 5248554621152393820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4250
+        width: 1061
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f28e17d47499b40800000000000000
+      internalID: 5447463622230421303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5028
+        width: 1053
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d43f38c71352c60800000000000000
+      internalID: 7792689141093977390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5901
+        width: 1075
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7054d301f3a1530800000000000000
+      internalID: 3826440172384618492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6582
+        width: 1046
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f367fca9400cba0800000000000000
+      internalID: -6070847234743320816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7352
+        width: 1053
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aba260ae73b2f1d0800000000000000
+      internalID: -3318392618980562008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8152
+        width: 1075
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad4374c1269c6f0800000000000000
+      internalID: -663891596467185078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9151
+        width: 1046
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f868d9c7beefb0800000000000000
+      internalID: -4616550490461112324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10158
+        width: 1075
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d823cf8a7639170800000000000000
+      internalID: 8183998923345661197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11010
+        width: 1075
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b871407c04bc390800000000000000
+      internalID: -7797067106350560410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11839
+        width: 1075
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2887960dfba4b7dd0800000000000000
+      internalID: -2487312181496285054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12431
+        width: 1075
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9b4d9bd9c2aa20800000000000000
+      internalID: 3072239840894097931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13298
+        width: 1075
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d51700942a20b0800000000000000
+      internalID: -5752745372999624519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14142
+        width: 1075
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d586baedd8c2df3d0800000000000000
+      internalID: -3171329574761174947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14763
+        width: 1075
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196815749f4573aa0800000000000000
+      internalID: -6181378533922601327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15607
+        width: 1075
+        height: 1133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4e993f681c087d0800000000000000
+      internalID: -2918119773179353903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16666
+        width: 1075
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b89e91f8cc250b0800000000000000
+      internalID: -5741301659956835459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17325
+        width: 1075
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119820b16f8b94ee0800000000000000
+      internalID: -1276285652228208367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18391
+        width: 1075
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec01e32ee0a5760800000000000000
+      internalID: 7447281298677223044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceBigSheet_entity_000_Stalktwist_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19028
+        width: 1075
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd825b1915dfbe0800000000000000
+      internalID: -1441906619437228178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
