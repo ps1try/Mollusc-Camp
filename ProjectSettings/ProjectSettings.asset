@@ -15,15 +15,15 @@ PlayerSettings:
   companyName: 1Try Games
   productName: Mollusc Camp Demo
   defaultCursor: {fileID: 2800000, guid: 0c892b2566d16b649b0cad7f15c96c89, type: 3}
-  cursorHotspot: {x: 42, y: 100}
+  cursorHotspot: {x: 45, y: 100}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
-  m_SplashScreenAnimation: 1
+  m_SplashScreenAnimation: 2
   m_SplashScreenLogoStyle: 1
   m_SplashScreenDrawMode: 0
-  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenBackgroundAnimationZoom: 0.73
   m_SplashScreenLogoAnimationZoom: 1
   m_SplashScreenBackgroundLandscapeAspect: 1
   m_SplashScreenBackgroundPortraitAspect: 1
@@ -41,7 +41,9 @@ PlayerSettings:
     height: 1
   m_SplashScreenLogos:
   - logo: {fileID: 21300000, guid: 6209a835ec8bcea4789938e0d272ab29, type: 3}
-    duration: 6.1
+    duration: 6.9
+  - logo: {fileID: 21300000, guid: b33aab24ecaeb9346b979fca48072b48, type: 3}
+    duration: 3.1
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1920
@@ -528,7 +530,7 @@ PlayerSettings:
   ps4IncludedModules: []
   ps4attribVROutputEnabled: 0
   monoEnv: 
-  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: 19b93b11b694d1546ad0bb90a911a054,
+  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: 27ab75b7aeafc0a4db014e4209411e1c,
     type: 3}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   blurSplashScreenBackground: 1
