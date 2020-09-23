@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: 1Try Games
-  productName: Mollusc Camp Demo
+  productName: Mollusc Camp
   defaultCursor: {fileID: 2800000, guid: 0c892b2566d16b649b0cad7f15c96c89, type: 3}
   cursorHotspot: {x: 45, y: 100}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -123,7 +123,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 0.0.2
+  bundleVersion: 0.0.3
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -629,7 +629,7 @@ PlayerSettings:
     Collab: 1
     ErrorHub: 0
     Hub: 0
-    UNet: 0
+    UNet: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -644,9 +644,9 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: b034910b-743a-4fbb-91be-4254eabf87a2
   framebufferDepthMemorylessMode: 0
-  projectName: Mollusc Camp Demo
+  projectName: mc-archive
   organizationId: audhumlax
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
-  legacyClampBlendShapeWeights: 1
+  legacyClampBlendShapeWeights: 0
